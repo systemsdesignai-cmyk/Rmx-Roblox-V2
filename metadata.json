@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rolodox",
+  "description": "A strategic networking planner, event-based relationship organizer, and personal CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

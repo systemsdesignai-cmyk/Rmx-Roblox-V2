@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for upgrading Rolodox to platform-adaptive UI/UX adhering to Apple Human Interface Guidelines on iOS and Google Material Design 3 on Android, while preserving existing business logic, data persistence, and brand identity.",
+  "updatedAt":  "2026-11-09T18:53:06.700368803Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
